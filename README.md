@@ -14,6 +14,6 @@ python-data-assignments
     - [scrape-data-journalist-directory-and-output-github-contributions.ipynb]((https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/scrape-data-journalist-directory-and-output-github-contributions.ipynb))
   - The result
     - [Information of data journalists.csv](https://github.com/ConnorLi96/python-data-assignments/blob/master/assignment1/Data_Journalism.csv)
-    - [GitHub Analysis.csv]()
+    - [GitHub Analysis.csv](https://github.com/ConnorLi96/python-data-assignments/blob/master/assignment1/Github_Analysis.csv)
   - For more details
-    - [README.md]()
+    - [README.md](https://github.com/ConnorLi96/python-data-assignments/blob/master/assignment1/README.md)
