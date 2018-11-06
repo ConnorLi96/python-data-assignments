@@ -1,7 +1,7 @@
 
 # Assignment 1 -- Data collection and ideation
 
-## Topic
+## Topic and summary
   - The data journalists' information and their contributions information on Github
   - We find a website there are many different individual information about data journalists, we decide to scraper all existing information for further data journalism study. Right now, the process divided two parts ```Orginal Website``` and ```Github Scraper and Analysis```. We want to use this data to study below points.
       - The importance of coding for data journalism
