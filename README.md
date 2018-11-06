@@ -11,7 +11,7 @@ python-data-assignments
   - Topic
     - The data journalists' information and their contributions on Github
   - The codes
-    - [scrape-data-journalist-directory-and-output-github-contributions.ipynb]((https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/scrape-data-journalist-directory-and-output-github-contributions.ipynb))
+    - [Assignments 01.py](https://github.com/ConnorLi96/python-data-assignments/blob/master/assignment1/Data_Journalism.csv)
   - The result
     - [Information of data journalists.csv](https://github.com/ConnorLi96/python-data-assignments/blob/master/assignment1/Data_Journalism.csv)
     - [GitHub Analysis.csv](https://github.com/ConnorLi96/python-data-assignments/blob/master/assignment1/Github_Analysis.csv)
