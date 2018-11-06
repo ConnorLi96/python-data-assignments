@@ -13,7 +13,7 @@ python-data-assignments
   - The codes
     - [scrape-data-journalist-directory-and-output-github-contributions.ipynb]((https://github.com/FLYSTEPHEN/python-data-assignments/blob/master/assignment1/scrape-data-journalist-directory-and-output-github-contributions.ipynb))
   - The result
-    - [Information of data journalists.csv]()
+    - [Information of data journalists.csv](https://github.com/ConnorLi96/python-data-assignments/blob/master/assignment1/Data_Journalism.csv)
     - [GitHub Analysis.csv]()
   - For more details
     - [README.md]()
