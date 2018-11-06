@@ -3,8 +3,12 @@
 
 ## Topic
   - The data journalists' information and their contributions information on Github
-  - We find a website there are many different individual information about data journalists, we decide to scraper all existing information for further data journalism study. The process divided two parts ```Orginal Website``` and ```Github Scraper and Analysis```. We want to know the importance of coding for data journalism, the post content in their Twitter account. 
-  
+  - We find a website there are many different individual information about data journalists, we decide to scraper all existing information for further data journalism study. Right now, the process divided two parts ```Orginal Website``` and ```Github Scraper and Analysis```. We want to use this data to study below points.
+      - The importance of coding for data journalism
+      - The post content in their Twitter account
+      - Find out the gap between work requirements and data journalist's coding ability.
+
+
 ## Orginal Website
 ### Data source
   - http://jplusplus.github.io/global-directory/
