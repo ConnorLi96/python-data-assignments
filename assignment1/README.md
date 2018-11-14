@@ -3,10 +3,7 @@
 
 ## Topic and summary
   - The data journalists' information and their contributions information on Github
-  - We find a website there are many different individual information about data journalists, we decide to scrape all existing information for further data journalism study. Right now, the process divided two parts ```Orginal Website``` and ```Github Scraper and Analysis```. We want to use this data to study below points.
-      - The importance of coding for data journalism
-      - The post content in their Twitter account
-      - Find out the gap between work requirements and data journalist's coding ability.
+  - We find a website there are many different individual information about data journalists, we decide to scrape all existing information for further data journalism study. Right now, the process divided two parts ```Orginal Website``` and ```Github Scraper and Analysis```. 
 
 
 ## Orginal Website
@@ -26,8 +23,9 @@
 ### Data volume
   - 217 rows × 8 columns
   - 217 data journalists's information, including their names, institutions, locations, github adress, PGP adress,Mail adress,Twitter adress
-
- 
+  
+### Obstacles and solutions
+When I try to scrpa the text information such as, ```Name```,```Institution```, all of this information is in one string, and each data I need is divided by this characters```\n```or ```\```. When I try ```split('\\')```, this way is invalid, the ```split('\n')``` is my final code. 
   
 ## Github Scraper and Analysis
 
@@ -44,6 +42,12 @@
 ### Data volume
   - 87 rows × 3 columns
   - The Github information (including:How many days the have contributions;The number of Wholeyear_contributions;The data of Last_contributions) in 87 data journalists who have github account. We want to know how many data journalists still coding.
-  
+   
 ### License
   - CC 4.0
+
+## Future issues
+We want to use this data to study below points.
+  - The importance of coding for data journalism
+  - The post content in their Twitter account
+  - Find out the gap between work requirements and data journalist's coding ability.
