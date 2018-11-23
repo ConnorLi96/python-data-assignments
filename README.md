@@ -17,3 +17,14 @@ python-data-assignments
     - [GitHub Analysis.csv](https://github.com/ConnorLi96/python-data-assignments/blob/master/assignment1/Github_Analysis.csv)
   - For more details
     - [README.md](https://github.com/ConnorLi96/python-data-assignments/blob/master/assignment1/README.md)
+    
+    
+## Assignment 2 -- Data visualization and stroytelling
+- Topic: How important is programming for data journalists?
+
+- Perspectives:
+  - [Github contributions](https://nbviewer.jupyter.org/github/ConnorLi96/python-data-assignments/blob/master/assignment2/Contribution%20Analysis%20In%20US.ipynb)
+  - [Twitter text](https://nbviewer.jupyter.org/github/ConnorLi96/python-data-assignments/blob/master/assignment2/Twitter%20WordCLoud.ipynb)
+
+- For more details
+  - [README.md](https://github.com/ConnorLi96/python-data-assignments/blob/master/assignment2/README.md)
