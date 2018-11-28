@@ -1,88 +1,88 @@
-,Name,Times,Last_contributions,Wholeyear_contributions
-0,Justin Myers,40,8/9/2018,155
-1,Annabel Church,5,31/10/2018,25
-2,Mina Demian,186,6/11/2018,825
-3,Mart�_n Gonz��lez,243,5/11/2018,"3,996"
-4,Adolfo Ant�_n Bravo,37,4/9/2018,95
-5,Michael Mott,0,NaN,0
-6,Troy Thibodeaux,2,14/10/2018,3
-7,John Heasly,76,5/11/2018,198
-8,Tom Cardoso,53,26/10/2018,165
-9,Jeremia Kimelman,67,21/10/2018,230
-10,Vanessa Wormer,1,23/5/2018,18
-11,Leonard Wallentin,97,5/11/2018,476
-12,Julien Gathelier,0,5/11/2018,0
-13,Stanislaw M. Stanuch,11,27/9/2018,17
-14,Tom Meagher,72,19/10/2018,115
-15,Edouard Richard,230,5/11/2018,"1,941"
-16,Maureen Linke,2,30/3/2018,3
-17,Thomas Preusse,266,6/11/2018,"2,515"
-18,Alexandre Haederli,4,13/4/2018,5
-19,Peter Aldhous,103,4/11/2018,432
-20,Jeremy Rue,50,3/11/2018,119
-21,Cory Kendrick,5,5/9/2018,26
-22,David Barreda,0,5/9/2018,0
-23,Moiz Syed,1,22/4/2018,1
-24,Llewellyn Hinkes-Jones,1,19/6/2018,2
-25,Erin Richey,0,19/6/2018,0
-26,Tony Papousek,13,10/10/2018,20
-27,Hunter Owens,164,5/11/2018,641
-28,Konrad Weber,0,5/11/2018,0
-29,Ricardo Lafuente,69,3/11/2018,435
-30,Yuichi Yazaki,6,27/10/2018,6
-31,Danielle Alberti,93,2/11/2018,318
-32,Ben Casselman,1,5/11/2017,1
-33,Rachel Schallom,0,5/11/2017,1
-34,Eduard Mart�_n-Borreg�_n,14,24/9/2018,113
-35,Gary Dagorn,0,24/9/2018,0
-36,Bernd Oswald,0,24/9/2018,0
-37,Paul-Antoine Chevalier,0,24/9/2018,0
-38,Andrea Angeli,9,15/8/2018,10
-39,Giuseppe Futia,88,5/11/2018,280
-40,Alessio Cimarelli,45,2/11/2018,150
-41,Masayuki Shimizu,89,24/10/2018,562
-42,Andrea Nelson Mauro,0,24/10/2018,0
-43,Chad Skelton,0,24/10/2018,0
-44,Concha Catalan,0,24/10/2018,0
-45,Harkanwal Singh,0,24/10/2018,0
-46,Moritz Klack,200,5/11/2018,"1,713"
-47,Sylke Gruhnwald,0,5/11/2018,0
-48,Michael H̦rz,3,18/9/2018,21
-49,David Bauer,9,11/10/2018,23
-50,Jonathon Morgan,3,4/7/2018,5
-51,Claus Hesseling,0,4/7/2018,0
-52,Friedrich Lindenberg,303,6/11/2018,"3,024"
-53,Natalia Karbasova,0,6/11/2018,0
-54,Duc-Quang Nguyen,79,2/11/2018,161
-55,Colin Hart,0,2/11/2018,0
-56,Bruno De Bondt,5,29/8/2018,8
-57,Jonathan Stray,158,2/11/2018,672
-58,Rohan Jayasekera,0,2/11/2018,0
-59,Markus Hametner,44,9/10/2018,94
-60,John Swain,9,13/9/2018,22
-61,Marcus Schwarze,0,13/9/2018,0
-62,Jes̼s Escudero,0,13/9/2018,0
-63,Juan Elosua,19,30/4/2018,33
-64,Antonio Delgado,0,30/4/2018,0
-65,Federico Comesa̱a,0,30/4/2018,0
-66,Matthew Caruana Galizia,6,12/7/2018,14
-67,Mar Cabra,0,12/7/2018,0
-68,Steven Rich,0,12/7/2018,0
-69,Eva Constantaras,7,1/11/2018,15
-70,Steven Melendez,1,1/3/2018,5
-71,Justin Myers,40,8/9/2018,155
-72,Ana Isabel Carvalho,6,3/11/2018,22
-73,Youyou Zhou,95,6/11/2018,488
-74,Pinar Dag,2,27/6/2018,6
-75,Julian Schmidli,1,22/8/2018,2
-76,Mona Chalabi,0,22/8/2018,0
-77,Jean Abbiateci,3,2/1/2018,20
-78,Rapha��l da Silva,0,2/1/2018,0
-79,Mehdi Guiraud,0,2/1/2018,0
-80,Timo Grossenbacher,0,2/1/2018,0
-81,Alexandre L̩chenet,23,23/10/2018,39
-82,Paul Joannon,76,16/10/2018,491
-83,Sebastian Kraus,1,4/6/2018,1
-84,Pierre Bellon,55,29/10/2018,400
-85,Pierre Romera,171,5/11/2018,"1,037"
-86,Cosmin Cabulea,0,5/11/2018,0
+,Name,Location,Times,Last_contributions,Wholeyear_contributions
+0,Justin Myers,"United States, Brooklyn (US-VA)",41,2018-11-23,156
+1,Annabel Church,"N/A, Germany",5,2018-10-31,25
+2,Mina Demian,"Johannesburg, South Africa",186,2018-11-27,868
+3,Martín González,"Barcelona, Spain",242,2018-11-27,"3,709"
+4,Adolfo Antón Bravo,"Madrid, Spain",35,2018-11-27,84
+5,Michael Mott,"Willits, United States",0,2018-11-27,84
+6,Troy Thibodeaux,"New Orleans, United States",2,2018-10-14,3
+7,John Heasly,"Eugene, United States",81,2018-11-26,219
+8,Tom Cardoso,"Toronto, Canada",55,2018-11-13,165
+9,Jeremia Kimelman,"San Francisco, United States",65,2018-11-27,227
+10,Vanessa Wormer,"Heilbronn, Germany",1,2018-05-23,18
+11,Leonard Wallentin,"Stockholm, Sweden",97,2018-11-23,487
+12,Julien Gathelier,"New York, United States",0,2018-11-23,487
+13,Stanislaw M. Stanuch,"Kraków, Poland",11,2018-09-27,17
+14,Tom Meagher,"New York, United States",67,2018-11-17,106
+15,Edouard Richard,"Paris, France",231,2018-11-27,"1,933"
+16,Maureen Linke,"Arlington (US-VA), United States",1,2018-03-29,3
+17,Thomas Preusse,"Zurich, Switzerland",265,2018-11-28,"2,548"
+18,Alexandre Haederli,"Berne, Switzerland",4,2018-04-13,5
+19,Peter Aldhous,"San Francisco, United States",104,2018-11-25,433
+20,Jeremy Rue,"Berkeley, United States",52,2018-11-15,124
+21,Cory Kendrick,"San Francisco, United States",5,2018-09-05,26
+22,David Barreda,"New York, United States",0,2018-09-05,26
+23,Moiz Syed,"N/A, United States",1,2018-04-22,1
+24,Llewellyn Hinkes-Jones,"Washington, D.C., United States",1,2018-06-19,2
+25,Erin Richey,"St. Louis, United States",0,2018-06-19,2
+26,Tony Papousek,"Lincoln (US-NE), United States",11,2018-11-26,15
+27,Hunter Owens,"Chicago, United States",171,2018-11-27,686
+28,Konrad Weber,"Zurich, Switzerland",0,2018-11-27,686
+29,Ricardo Lafuente,"Porto, Portugal",63,2018-11-03,374
+30,Yuichi Yazaki,"Tokyo, Japan",7,2018-11-13,7
+31,Danielle Alberti,"Washington, D.C., United States",93,2018-11-27,327
+32,Ben Casselman,"New York, United States",0,2018-11-27,327
+33,Rachel Schallom,"Fort Lauderdale, United States",0,2018-11-27,327
+34,Eduard Martín-Borregón,"Barcelona, Spain",13,2018-09-24,112
+35,Gary Dagorn,"Caen, France",0,2018-09-24,112
+36,Bernd Oswald,"Munich, Germany",0,2018-09-24,112
+37,Paul-Antoine Chevalier,"Paris, France",0,2018-09-24,112
+38,Andrea Angeli,"Siena, Italy",8,2018-08-15,9
+39,Giuseppe Futia,"N/A, Italy",86,2018-11-25,266
+40,Alessio Cimarelli,"Squillace, Italy",51,2018-11-28,163
+41,Masayuki Shimizu,"Gunma, Japan",94,2018-11-26,578
+42,Andrea Nelson Mauro,"Bologna, Italy",0,2018-11-26,578
+43,Chad Skelton,"Vancouver, Canada",0,2018-11-26,578
+44,Concha Catalan,"Barcelona, Spain",0,2018-11-26,578
+45,Harkanwal Singh,"Auckland, New Zealand",0,2018-11-26,578
+46,Moritz Klack,"Berlin, Germany",203,2018-11-27,"1,863"
+47,Sylke Gruhnwald,"Zurich, Switzerland",0,2018-11-27,"1,863"
+48,Michael Hörz,"Berlin, Germany",3,2018-09-18,21
+49,David Bauer,"Basel, Switzerland",9,2018-10-11,23
+50,Jonathon Morgan,"Austin, United States",3,2018-07-04,5
+51,Claus Hesseling,"Hamburg, Germany",0,2018-07-04,5
+52,Friedrich Lindenberg,"Cape Town, South Africa",300,2018-11-23,"3,010"
+53,Natalia Karbasova,"Munich, Germany",0,2018-11-23,"3,010"
+54,Duc-Quang Nguyen,"Lausanne, Switzerland",80,2018-11-22,159
+55,Colin Hart,"New York, United States",0,2018-11-22,159
+56,Bruno De Bondt,"Vancouver, Canada",5,2018-08-29,8
+57,Jonathan Stray,"New York, United States",155,2018-11-26,618
+58,Rohan Jayasekera,"London, United Kingdom",0,2018-11-26,618
+59,Markus Hametner,"Vienna, Austria",39,2018-11-07,84
+60,John Swain,"Leeds, United Kingdom",9,2018-09-13,22
+61,Marcus Schwarze,"Koblenz, Germany",0,2018-09-13,22
+62,Jesús Escudero,"Madrid, Spain",0,2018-09-13,22
+63,Juan Elosua,"Vigo, Spain",18,2018-04-30,32
+64,Antonio Delgado,"Madrid, Spain",0,2018-04-30,32
+65,Federico Comesaña,"Montevideo, Uruguay",0,2018-04-30,32
+66,Matthew Caruana Galizia,"San José, Costa Rica",6,2018-07-12,14
+67,Mar Cabra,"Madrid, Spain",0,2018-07-12,14
+68,Steven Rich,"Washington, D.C., United States",0,2018-07-12,14
+69,Eva Constantaras,"Nairobi, Kenya",6,2018-11-01,14
+70,Steven Melendez,"New York, United States",1,2018-03-01,5
+71,Justin Myers,"Arlington (US-VA), United States",41,2018-11-23,156
+72,Ana Isabel Carvalho,"Porto, Portugal",5,2018-11-03,19
+73,Youyou Zhou,"Shanghai, China",105,2018-11-27,515
+74,Pinar Dag,"Istanbul, Turkey",2,2018-06-27,6
+75,Julian Schmidli,"Zurich, Switzerland",1,2018-08-22,2
+76,Mona Chalabi,"New York, United States",0,2018-08-22,2
+77,Jean Abbiateci,"Guichen, France",1,2018-01-02,1
+78,Raphaël da Silva,"Strasbourg, France",0,2018-01-02,1
+79,Mehdi Guiraud,"Paris, France",0,2018-01-02,1
+80,Timo Grossenbacher,"Zurich, Switzerland",0,2018-01-02,1
+81,Alexandre Léchenet,"N/A, France",25,2018-11-28,42
+82,Paul Joannon,"Paris, France",82,2018-11-21,519
+83,Sebastian Kraus,"Berlin, Germany",1,2018-06-04,1
+84,Pierre Bellon,"Paris, France",39,2018-10-29,289
+85,Pierre Romera,"Paris, France",180,2018-11-27,"1,459"
+86,Cosmin Cabulea,"Bonn, Germany",0,2018-11-27,"1,459"
